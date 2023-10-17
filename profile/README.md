@@ -1,4 +1,4 @@
-# Technology Media
+# Offsec Nepal
 
 ![Technology Media Logo](https://avatars.githubusercontent.com/u/128064750?s=200&v=4)
 
