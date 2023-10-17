@@ -4,7 +4,11 @@
 
 ## Who are we?
 
-`Technology Media` is a proactive and effective platform for tech enthusiasts.
+Offsec Nepal - Fostering Security, Fueling Resilience!
+
+"Close the cybersecurity skills gap through continuous learning. 
+Our Learning Offsec nepal provides business security teams with essential training, awareness, and up-to-date cyber news 
+to protect against cyber threats and enhance safety."
 ### Our Primary Focus
 - [x] workshops
 - [x] collaboration
