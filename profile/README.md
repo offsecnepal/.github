@@ -13,7 +13,7 @@ to protect against cyber threats and enhance safety."
 - [x] Cyber Awareness
 - [x] Offensive Security
 - [x] Cyber News
-- [x] organizing tech events.
+- [x] organizing Cyber events.
 ## Our Aim
 Fostering Security, Fueling Resilience!
 ## Getting Started
